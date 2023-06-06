@@ -1,6 +1,6 @@
-#Graph 
+# Graph 
 
-# You can get general alogorithms of graph in this repo.
+## You can get general alogorithms of graph in this repo.
 
 - Transversal
 - Searching
